@@ -1,0 +1,1 @@
+This is vrsion 01 of file that we need to do git operations 
